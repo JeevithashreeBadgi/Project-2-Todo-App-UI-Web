@@ -1,0 +1,60 @@
+.f1{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.f2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.a-paris{
+    text-decoration: none;
+}
+.todo{
+    text-decoration: none;
+}
+.plus{
+    color:orangered;
+}
+.first{
+    display: flex;
+    position: relative;
+    top:40px;
+    left:300px;
+}
+.side{
+    display: flex;
+    position: relative;
+    left:850px;
+}
+.container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:25px;
+}
+.box1{
+    width:180px;
+    height:250px;
+    border:1px solid orangered;
+    border-radius: 10px;
+    padding:20px;
+    box-shadow: 5px 5px 5px gray;
+    margin:20px;
+}
+.box2{
+    width:180px;
+    height:250px;
+    border:1px solid orangered;
+    border-radius: 10px;
+    padding:20px;
+    box-shadow: 5px 5px 5px gray;
+    margin:20px;
+}
+.box3{
+    width:180px;
+    height:250px;
+    border:1px solid orangered;
+    border-radius: 10px;
+    padding:20px;
+    box-shadow: 5px 5px 5px gray;
+    margin:20px;
+}
